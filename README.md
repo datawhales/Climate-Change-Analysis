@@ -11,11 +11,11 @@
 ## Data
 분석에 사용한 데이터의 종류는 다음과 같습니다.
 - 지구 표면 온도 데이터 ([Link](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data))
-- 지구 평균 CO_{2} 농도 데이터 ([Link](https://gml.noaa.gov/ccgg/trends/gl_data.html))
-- CO_{2} 방출량 데이터 ([Link](https://github.com/owid/co2-data))
+- 지구 평균 CO_${2}$ 농도 데이터 ([Link](https://gml.noaa.gov/ccgg/trends/gl_data.html))
+- $CO_{2}$ 방출량 데이터 ([Link](https://github.com/owid/co2-data))
 - 자연 재해 데이터 ([Link](https://www.kaggle.com/datasets/dataenergy/natural-disaster-data))
 
 ## Summary
 지구 온난화와 관련된 데이터를 수집하고, 가공하여 분석을 진행하였습니다.
 
-지구의 평균 CO_{2} 농도를 통해 지구 평균 온도 예측 모델을 학습하였고, 이를 통해 지구 평균 온도가 5도 이상 상승하여 위험해지는 시점을 예측해 보았습니다.
+지구의 평균 CO$_{2}$ 농도를 통해 지구 평균 온도 예측 모델을 학습하였고, 이를 통해 지구 평균 온도가 5도 이상 상승하여 위험해지는 시점을 예측해 보았습니다.
